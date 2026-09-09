@@ -87,7 +87,7 @@ export default function Page() {
             </div>
             <div className="hero-cta">
               <button className="btn-primary" onClick={reopenPicker}>
-                Choose Your Diagnostic →
+                Choose Your Diagnostic ↓
               </button>
             </div>
           </div>
