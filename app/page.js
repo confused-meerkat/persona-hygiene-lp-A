@@ -87,7 +87,7 @@ export default function Page() {
             </div>
             <div className="hero-cta">
               <button className="btn-primary" onClick={reopenPicker}>
-                Choose Your Diagnostic  ↓
+                Choose What You Want to Fix  ↓
               </button>
             </div>
           </div>
